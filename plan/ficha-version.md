@@ -1,8 +1,5 @@
 # Ficha de verificación de versión · Grupo 08
 
-## ¿Qué es esta ficha?
-
-Antes de descargar una distribución hay que comprobar que su versión sirve para el proyecto. Esta ficha es la prueba de que lo comprobaron. Se llena una vez por cada distribución del grupo (la gráfica, la de consola y la imagen base del Dockerfile) y cada respuesta lleva el enlace de donde sacaron el dato. No se descuentan puntos si la versión más reciente no sirve: se evalúa que lo hayan verificado.
 
 Distribuciones del grupo 08: **Pop!_OS** (gráfica), **AlmaLinux** (consola) y **Debian** (imagen base).
 
