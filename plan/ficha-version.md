@@ -24,7 +24,7 @@ Distribuciones del grupo 08: **Pop!_OS** (gráfica), **AlmaLinux** (consola) y *
 
 | Pregunta | Respuesta | Enlace donde lo comprobamos |
 | :--- | :--- | :--- |
-| **Versión elegida y fecha de lanzamiento** | AlmaLinux OS 10 (lanzada en mayo de 2025) | https://almalinux.org/get-almalinux/ |
+| **Versión elegida y fecha de lanzamiento** | AlmaLinux OS 10.3 (lanzada en mayo de 2025) | https://almalinux.org/get-almalinux/ |
 | **Hasta cuándo recibe actualizaciones de seguridad** | AlmaLinux 10 tiene soporte activo hasta el 31 de mayo de 2030 y soporte de seguridad hasta el 31 de mayo de 2035 | https://wiki.almalinux.org/release-notes/ |
 | **Requisitos de hardware y si funciona en VirtualBox** | Requisitos mínimos: 1.5 GB de RAM, 1 vCPU y 10 GB de disco. Sí funciona en VirtualBox; la configuramos con 2 GB de RAM (y 3 GB para Minikube en Sprint 3), 2 CPU y 25 GB de disco | https://wiki.almalinux.org/documentation/installation-guide.html |
 | **¿El instalador permite particionado manual?** | Sí. El instalador Anaconda permite seleccionar almacenamiento «Personalizado» (`Custom`) para configurar `/`, `swap`, `/home` y `/var` | https://wiki.almalinux.org/documentation/installation-guide.html |
