@@ -1,9 +1,5 @@
 # Plan de trabajo · Grupo 08
 
-## ¿Para qué sirve este archivo?
-
-Dice quién hace qué[span_9](start_span)[span_9](end_span). El docente lo usa en dos momentos: para revisar los commits (cada integrante toca los archivos de su parte) y en la sustentación, donde cada integrante explica **la parte que aquí dice que hizo**[span_10](start_span)[span_10](end_span)[span_11](start_span)[span_11](end_span)[span_12](start_span)[span_12](end_span). Si cambian de parte durante el proyecto, lo actualizan aquí con un commit[span_13](start_span)[span_13](end_span)[span_14](start_span)[span_14](end_span).
-
 ## Integrantes y partes
 
 | Integrante | Rol | Qué hace | Archivos o carpeta propios |
@@ -28,4 +24,3 @@ Dice quién hace qué[span_9](start_span)[span_9](end_span). El docente lo usa e
 * Cada integrante hace al menos 2 commits por sprint (en los sprints 1, 2 y 3), con un mensaje que diga qué cambió (por ejemplo: `"agrego la partición /var a la ficha"`)[span_49](start_span)[span_49](end_span). Nada de `"update"` ni `"cambios"`[span_50](start_span)[span_50](end_span).
 * Los videos se graban el día antes del cierre por videollamada compartiendo pantalla, con las dos VMs encendidas y mostrando el rostro de los tres integrantes[span_51](start_span)[span_51](end_span).
 * Si alguien no puede cumplir su parte, lo dice al grupo con tiempo y se reparte.
-*
